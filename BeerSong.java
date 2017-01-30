@@ -18,7 +18,7 @@ public class BeerSong {
         // TODO code application logic here
     }
     
-	private void Ninety_Nine_Bottles_of_Beer() {
+	private static void Ninety_Nine_Bottles_of_Beer() {
 		
 	}
 }
